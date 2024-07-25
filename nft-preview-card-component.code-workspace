@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../recipe-page-main/recipe-page/assets/fonts/outfit"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "nft-preview-card-component"
+  }
+}
